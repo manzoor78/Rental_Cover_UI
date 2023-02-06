@@ -5,7 +5,7 @@ Pre-Requisites:
 
 Steps to run the project:
 
-1. Clone the project using git clone
+1. Clone the project using git clone https://github.com/manzoor78/Rental_Cover_UI
 2. Navigate to project using cd
 3. Run tests using "mvn test" (Can run specific tag with -DCucumber options)
 
